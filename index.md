@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-# /about Me
+# about me
 
-slow cinema buff. amateur math-guy. diaspora throttled. brazen geek-culture critic. 
+slow cinema buff. amateur math-guy. cluelessly diaspora throttled. brazen geek-culture critic. 
