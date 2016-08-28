@@ -4,8 +4,7 @@ title: "Hello World!"
 categories:
   - Edge Case
 tags:
-  - hello
-  - first-post
+
   - hello-world
 ---
 
